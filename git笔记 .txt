@@ -1,0 +1,11 @@
+设置用户名
+git config --global user.name 'qinrunyang'
+
+git config --global user.email '1781529347@qq.com'
+
+初始化git仓库
+git init
+
+提交修改到git仓库
+git add readme.txt   /   git add *   /   git add *.html 
+git commit -m 'message'

@@ -1,6 +1,0 @@
-
-shuoming.txt
-# 忽略 nodde_modules文件夹
-/node_modules
-#忽略 adc 目录下 所有的 .txt扩展名结尾的文件
-/abc/*.txt
